@@ -39,14 +39,14 @@ To make the chapters easier to read I will attach charts of Japanese and English
 
 
 
-Here's one of the charts, the one comparing vowels. The pink circles concern Japanese sounds and the dark blue ones English. ![The Vowels Chart](https://github.com/AgggR/MA_Plan/blob/master/IPA2005_3000px__VOWELS.png)
+Here's the chart comparing vowels. The pink circles concern Japanese sounds and the dark blue ones English. ![The Vowels Chart](https://github.com/AgggR/MA_Plan/blob/master/IPA2005_3000px__VOWELS.png)
 
 
 
 ###### 1.1.2  Description of consonants in both languages
 
 
-
+And here's the chart comparing consonants.
 Once again, the pink circles concern Japanese sounds and the dark blue ones English sounds.
 
 
